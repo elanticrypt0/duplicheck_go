@@ -1,0 +1,9 @@
+# engines (sqlite / mysql / postgres)
+[[database]]
+    connName="local"
+    engine="sqlite"
+    host=""
+    port=""
+    user=""
+    password=""
+    dbname="dupli_check.db"
